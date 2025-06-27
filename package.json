@@ -1,0 +1,22 @@
+{
+  "name": "survey-builder-pro",
+  "version": "1.0.0",
+  "description": "A responsive survey/quiz builder web application",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 5000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "survey",
+    "quiz",
+    "builder",
+    "form",
+    "bootstrap",
+    "emailjs"
+  ],
+  "author": "Survey Builder Pro",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
